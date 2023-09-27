@@ -1,4 +1,8 @@
 # frzlib
+Copyright 2023 MKS Technology LLC
+
+Licensed under the MIT license. See LICENSE file in the project root for details.
+
 Simple freeze frame library for embedded applications
 
 ## Example Usage

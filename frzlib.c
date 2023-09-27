@@ -1,3 +1,11 @@
+/** @file frzlib.c
+ *
+ * @brief Freeze frame library source code
+ *
+ * @copyright MKS Technology LLC. All rights reserved.
+ * Licensed under the MIT license. See LICENSE file in the project root for details.
+ */
+
 #include "frzlib.h"
 #include <stddef.h>
 

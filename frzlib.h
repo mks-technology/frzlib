@@ -1,6 +1,9 @@
 /** @file frzlib.h
  *
  * @brief Freeze frame library header file
+ *
+ * @copyright MKS Technology LLC. All rights reserved.
+ * Licensed under the MIT license. See LICENSE file in the project root for details.
  */
 
 #ifndef FRZLIB_H_
