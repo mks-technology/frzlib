@@ -1,4 +1,4 @@
-# frzlib
+# FrzLib
 Copyright 2023 MKS Technology LLC
 
 Licensed under the MIT license. See LICENSE file in the project root for details.
